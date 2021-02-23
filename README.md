@@ -8,7 +8,7 @@
 
 ## Descrição do Projeto
 
-Para uma distribuidora é importante ter um sistema para guardar os dados de seus funcionários, gerentes, caminhões, cargas, armazenamento, clientes e entregas. Com isso, esse projeto busca solucionar esse problema com a criação de um banco de dados otimizado para qualquer distribuidora utilizar. Primeiramente, todo funcionário estará associado com um gerente. Assim, todo gerente pode indicar quais os funcionários serão responsáveis pelas entregas. Todas as entregas guardarão os dias de agendamento de ida e a chegada
+Para uma distribuidora é importante ter um sistema para guardar os dados de seus funcionários, gerentes, caminhões, cargas, armazenamento, clientes e entregas. Com isso, esse projeto busca solucionar esse problema com a criação de um banco de dados otimizado para qualquer distribuidora utilizar. Primeiramente, todo funcionário estará associado com um gerente. Assim, todo gerente pode indicar quais os funcionários serão responsáveis pelas entregas. Todas as entregas guardarão os dias de agendamento de ida,data de chegada, recebedor e relatorio. 
 
 ## Links do Projeto
 * [**Requisitos**](https://github.com/mdouglas630/BDDrist/blob/main/DOCS/REQUISITOS.md)
